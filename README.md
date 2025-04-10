@@ -1,6 +1,15 @@
 # 🧳 Learning Vault
 
-This repository contains all the study materials, notes, and resources I use on my journey to becoming a Cybersecurity professional. Feel free to check them out and follow along!
+## ADHD-Friendly Learning Approach
+
+As someone with ADHD, I’ve developed a learning style that caters to my needs for shorter, focused study sessions and hands-on activities. Here's how I approach my learning:
+
+- **Bite-Sized Learning**: I break down complex topics into small, manageable sections. This helps maintain focus and keeps me engaged.
+- **Active Engagement**: Instead of passive learning, I work on practical labs, projects, and hands-on exercises.
+- **Variety in Learning**: I switch between different formats—videos, articles, courses—to keep things interesting and fresh.
+- **Frequent Breaks**: I use the Pomodoro technique or similar methods to manage attention and avoid burnout.
+  
+These strategies help me absorb complex concepts and stay motivated throughout my learning journey.
 
 ---
 
