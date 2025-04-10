@@ -1,4 +1,6 @@
-# 🧳 Learning Vault
+# Learning Repository: Jason Rattigan
+
+Welcome to my learning journey! This repository contains my study notes, certifications, and resources as I dive deeper into the fields of **Azure**, **Cybersecurity**, and related technologies. Here, I document everything from certifications to hands-on labs and learning resources.
 
 ## ADHD-Friendly Learning Approach
 
@@ -11,38 +13,62 @@ As someone with ADHD, I’ve developed a learning style that caters to my needs 
   
 These strategies help me absorb complex concepts and stay motivated throughout my learning journey.
 
----
+## Table of Contents
 
-## 🎓 Certifications
-Here you'll find my notes and resources for certifications I am pursuing.
-
-### Microsoft Certified: Security, Compliance, and Identity Fundamentals
-- [Link to Notes](./Microsoft-Security-Compliance-Identity-Fundamentals)
-
-### SC-200: Microsoft Security Operations Analyst
-- [Link to Notes](./SC-200-Notes)
+1. [Overview](#overview)
+2. [Learning Areas](#learning-areas)
+3. [Resources](#resources)
+4. [Certifications](#certifications)
+5. [Contributing](#contributing)
 
 ---
 
-## 📚 Learning Paths & Courses
-Here are the learning paths I’m currently following:
+## Overview
 
-### **Microsoft Learn - Azure Fundamentals**
-- [Link to Notes](./Azure-Fundamentals)
-
-### **CompTIA Security+**
-- [Link to Notes](./CompTIA-Security-Plus)
+This repository serves as a collection of learning materials and study notes that I’ve compiled during my self-study journey. I am working towards certifications and expanding my knowledge in **Cybersecurity**, **Azure**, and other related fields. The content here is organized by topics and includes relevant study notes, guides, and hands-on project documentation.
 
 ---
 
-## 🧩 Practice Labs
-I’m also working on hands-on labs and projects to reinforce what I learn.
+## Learning Areas
 
-- [Home Lab Projects](./Home-Lab-Projects)
-- [Threat Hunting with Tor](./Threat-Hunting-with-Tor)
+### 1. **Azure**
+- [Azure Fundamentals Notes](./Azure/Azure_Fundamentals.md)
+- [Azure Certification Resources](./Azure/Azure_Certification_Resources.md)
+
+### 2. **Cybersecurity**
+- [IAM (Identity and Access Management)](./Cybersecurity/IAM.md)
+- [Threat & Vulnerability Management](./Cybersecurity/Threat_Vulnerability_Management.md)
+  
+---
+
+## Resources
+
+Here are the study materials, courses, and guides I’ve found useful on my learning path.
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| Microsoft Learn | Official Azure Fundamentals resources | [Link](https://learn.microsoft.com/en-us/azure/) |
+| Coursera | Google Cybersecurity Professional | [Link](https://www.coursera.org/professional-certificates/google-cybersecurity) |
+| LinkedIn Learning | Various Cybersecurity courses | [Link](https://www.linkedin.com/learning/) |
 
 ---
 
-Feel free to open any issues or pull requests if you have suggestions, questions, or resources you want to share. Happy learning!
+## Certifications
 
-> *"The more I learn, the more I realize how much there is to know."* — Albert Einstein
+I am currently working towards several certifications, which I track here.
+
+- **Microsoft Certified: Azure Fundamentals** - Completed [Date]
+- **Google Cybersecurity Professional** - Completed [Date]
+- **SC-200: Microsoft Security Operations Analyst** - In Progress
+
+Check out my certifications on LinkedIn: [Jason Rattigan - LinkedIn](https://www.linkedin.com/in/jason-r-20a8961b1/)
+
+---
+
+## Contributing
+
+Feel free to contribute to this repository! If you have resources, tips, or improvements that can help, please feel free to open a pull request or raise an issue.
+
+---
+
+**"Whāia te iti kahurangi, ki te tūohu koe, me he maunga teitei."** - Seek the treasure you value most dearly; if you bow your head, let it be to a lofty mountain.
